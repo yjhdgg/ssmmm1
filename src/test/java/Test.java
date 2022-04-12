@@ -27,4 +27,9 @@ public class Test {
         //归还到连接池中
         jedis.close();
     }
+
+    @org.junit.Test
+    public void test3() {
+
+    }
 }
